@@ -1,3 +1,9 @@
+# Talk-to-Split
+
+TLDR: 
+This project helps you in calculating accurate food bill split according to who ate what.
+While apps like SplitWise exist, this project focuses on taking the information about who ate what in the most natural form - speech - saving the hassle of typing the bill amount, person name, etc.
+
 ## About this project
 
 This project was born by my lethargy in doing the food split calculations by myself.
